@@ -78,7 +78,7 @@ Models are evaluated and compared to determine the most effective approach for s
 * Accuracy
 * Precision
 * Recall
-* F1-Score
+* F4-Score
 * Confusion Matrix
 
 These metrics help assess how well the model predicts stroke cases, especially in imbalanced datasets.
